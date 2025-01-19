@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="102217006-topsis",  
-    version="1.0.5",
-    author="ANMOL BHATT",
+    name="102217012-topsis",  
+    version="1.0.2",
+    author="GARV KAKAS",
     description="A Python package for implementing the TOPSIS multi-criteria decision analysis method.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",  
